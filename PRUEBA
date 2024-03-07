@@ -1,0 +1,9 @@
+#group,false,false,true,true,false,false,true,true,true,true
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string
+#default,_result,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,addr,name
+,,0,2024-02-05T23:22:57.22730734Z,2024-03-06T23:22:57.22730734Z,2023-03-01T01:00:44.568549911Z,20032,04,value,Contadores_Prueba,36587,ENERGIA ACTIVA
+,,0,2024-02-05T23:22:57.22730734Z,2024-03-06T23:22:57.22730734Z,2023-03-01T02:00:44.568549911Z,20032,233,value,Contadores_Prueba,36587,ENERGIA ACTIVA
+,,0,2024-02-05T23:22:57.22730734Z,2024-03-06T23:22:57.22730734Z,2023-03-01T03:00:44.568549911Z,20032,475,value,Contadores_Prueba,36587,ENERGIA ACTIVA
+,,0,2024-02-05T23:22:57.22730734Z,2024-03-06T23:22:57.22730734Z,2023-03-01T04:00:44.568549911Z,20032,699,value,Contadores_Prueba,36587,ENERGIA ACTIVA
+
